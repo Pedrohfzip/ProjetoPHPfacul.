@@ -3,4 +3,4 @@
 
 Para vizualizar o projeto, baixe a pasta zip fixada.
 
-Parabaixar clique em "Projeto-Crud" na parte direita clique em "download".
+Para baixar clique em "Projeto-Crud" na parte direita clique em "download".
